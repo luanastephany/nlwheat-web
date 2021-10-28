@@ -23,7 +23,7 @@ export function SendMessageForm() {
         </span>
       </header>
 
-      <form className={styles.sendoMessageForm}>
+      <form className={styles.sendMessageForm}>
         <label htmlFor="message">Mensagem</label>
         <textarea 
         name="message" 
